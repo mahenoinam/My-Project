@@ -1,1 +1,1 @@
-2nd file
+print("Hello Git")

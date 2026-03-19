@@ -1,1 +1,12 @@
-1st file
+Hello this is my first github repository
+To make a new directory: mkdir directory name
+To go in a directory: cd directory name
+Initiate git: git init
+To make file: echo "creating a file" > file.extention i.e. readme.txt
+To add file: git add .
+To add username and  email:
+git config --global user.name "username"
+git config --global user.email "user@gmail.com"
+To go to branch: git branch branch_name
+Push to git: git push -u switch origin main i.e. branch name
+
