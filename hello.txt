@@ -8,5 +8,5 @@ To add username and  email:
 git config --global user.name "username"
 git config --global user.email "user@gmail.com"
 To go to branch: git branch branch_name
-Push to git: git push -u switch origin main i.e. branch name
+Push to git: git push -u origin main i.e. branch name
 
